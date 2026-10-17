@@ -22,8 +22,8 @@ short_description: Train, explain and govern a mortgage default model
 
 <br/>
 
-[![Live Demo](https://img.shields.io/badge/%E2%96%B6_Live_Demo-Hugging_Face_Space-ffcc00?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/mnoorchenar/credit-risk-copilot)
-[![Source Code](https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mnoorchenar/credit-risk-copilot)
+[![Live Demo](https://img.shields.io/badge/%E2%96%B6_Live_Demo-Hugging_Face_Space-ffcc00?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/mnoorchenar/credit-risk-model-studio)
+[![Source Code](https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mnoorchenar/credit-risk-model-studio)
 
 <br/>
 
@@ -106,7 +106,7 @@ Without a token every feature still works; only the memo and answers fall back t
 ## 📁 Project Structure
 
 ```
-credit-risk-copilot/
+credit-risk-model-studio/
 │
 ├── 📂 js/
 │   ├── app.js
@@ -190,8 +190,8 @@ Distributed under the **MIT License**.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:06b6d4&height=120&section=footer&text=Made%20with%20%E2%9D%A4%EF%B8%8F%20by%20Mohammad%20Noorchenarboo&fontColor=ffffff&fontSize=18&fontAlignY=80" width="100%"/>
 
-[![Star on GitHub](https://img.shields.io/badge/%E2%AD%90_Star-on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mnoorchenar/credit-risk-copilot/stargazers)
-[![Fork on GitHub](https://img.shields.io/badge/%F0%9F%8D%B4_Fork-on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mnoorchenar/credit-risk-copilot/fork)
+[![Star on GitHub](https://img.shields.io/badge/%E2%AD%90_Star-on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mnoorchenar/credit-risk-model-studio/stargazers)
+[![Fork on GitHub](https://img.shields.io/badge/%F0%9F%8D%B4_Fork-on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mnoorchenar/credit-risk-model-studio/fork)
 
 <sub>The name "Credit Risk Model Studio" is used purely for academic and research purposes. Any similarity to existing product names or trademarks is entirely coincidental. This project has no affiliation with any commercial entity.</sub>
 
